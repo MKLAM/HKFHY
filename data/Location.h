@@ -1,0 +1,28 @@
+//
+//  Location.h
+//  HKFHY
+//
+//  Created by Tsang Tsz Kit on 13年9月4日.
+//  Copyright (c) 2013年 James Tsang. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import <CoreData/CoreData.h>
+
+
+@interface Location : NSManagedObject
+
+@property (nonatomic, retain) NSString * content;
+@property (nonatomic, retain) NSNumber * id;
+@property (nonatomic, retain) NSString * lang;
+@property (nonatomic, retain) NSNumber * map_lat;
+@property (nonatomic, retain) NSNumber * map_lng;
+@property (nonatomic, retain) NSString * open_time;
+@property (nonatomic, retain) NSNumber * record_id;
+@property (nonatomic, retain) NSNumber * seq;
+@property (nonatomic, retain) NSString * title;
+@property (nonatomic, retain) NSNumber * type_id;
+@property (nonatomic, retain) NSNumber * baidu_map_y;
+@property (nonatomic, retain) NSNumber * baidu_map_x;
+
+@end

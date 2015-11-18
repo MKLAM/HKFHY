@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loading</key>
+	<string>Loading...</string>
+	<key>type_all</key>
+	<string>Attraction Type</string>
+	<key>district_all</key>
+	<string>Location</string>
+	<key>a_click_vote</key>
+	<string>Click to Voting</string>
+	<key>a_current_mark</key>
+	<string>Current have %@ star</string>
+	<key>a_spot_opinion</key>
+	<string>Your Opinion</string>
+	<key>a_facebook</key>
+	<string>Share to Facebook</string>
+	<key>a_go_map</key>
+	<string>Open Map</string>
+	<key>a_info</key>
+	<string>Information</string>
+	<key>a_transport</key>
+	<string>Traffic</string>
+	<key>a_content</key>
+	<string>Content</string>
+	<key>a_choose_type</key>
+	<string>Choose Type</string>
+	<key>a_choose_district</key>
+	<string>Choose Distrist</string>
+	<key>a_prev_page</key>
+	<string>Previous Page</string>
+	<key>a_next_page</key>
+	<string>Next Page</string>
+	<key>a_spot_map</key>
+	<string>Spot Switch</string>
+	<key>a_bus_map</key>
+	<string>Transpot Switch</string>
+	<key>a_park_map</key>
+	<string>Park Switch</string>
+	<key>a_tollet_map</key>
+	<string>Toilet Switch</string>
+	<key>a_zoom_out</key>
+	<string>Zoom Out</string>
+	<key>a_zoom_in</key>
+	<string>Zoom In</string>
+	<key>a_location</key>
+	<string>GPS Location Switch</string>
+	<key>a_scroll_up</key>
+	<string>Scroll Up</string>
+	<key>a_scroll_down</key>
+	<string>Scroll Down</string>
+	<key>a_home</key>
+	<string>Back</string>
+	<key>spot_opinion_title2</key>
+	<string>？</string>
+	<key>spot_opinion_title</key>
+	<string>Any opinion for </string>
+	<key>submit_btn</key>
+	<string>Send</string>
+	<key>remark_placeholder</key>
+	<string>Type in content</string>
+	<key>upload_btn</key>
+	<string>Upload Image</string>
+	<key>phone_placeholder</key>
+	<string>Type in contact number</string>
+	<key>email_placeholder</key>
+	<string>Type in email</string>
+	<key>name_placeholder</key>
+	<string>Type in your name</string>
+	<key>your_rating</key>
+	<string>Your rating</string>
+	<key>rank_people</key>
+	<string>(%@)Peoples</string>
+	<key>rank_title</key>
+	<string>Access：</string>
+	<key>close</key>
+	<string>Close</string>
+	<key>search_placeholder</key>
+	<string>Type in place name</string>
+	<key>cancel</key>
+	<string>Cancel</string>
+	<key>3G_msg</key>
+	<string>Latest information released, Confirm to download?</string>
+	<key>download_data</key>
+	<string>Downloading update patch, please wait...</string>
+	<key>ok</key>
+	<string>Ok</string>
+	<key>no_network</key>
+	<string>Please connect to network before starting. Functionality of this application will be limited.</string>
+	<key>network_alert_title</key>
+	<string>Network</string>
+	<key>from_library</key>
+	<string>From Library</string>
+	<key>from_cam</key>
+	<string>From Camara</string>
+	<key>submit_success</key>
+	<string>Submition Success</string>
+	<key>select_image</key>
+	<string>Select Picture</string>
+	<key>no_camara</key>
+	<string>No Camara</string>
+	<key>submit_msg</key>
+	<string>Thank you for your opinion.</string>
+	<key>system_error</key>
+	<string>System busy, please try again later.</string>
+	<key>cammara</key>
+	<string>Camera is not available</string>
+	<key>submit_fail</key>
+	<string>Submition Fail</string>
+	<key>invalid_form</key>
+	<string>Missing Information</string>
+	<key>name_invalid</key>
+	<string>Please issue your Name.</string>
+	<key>inpuiry</key>
+	<string>Inquiry</string>
+	<key>complain</key>
+	<string>Complain</string>
+	<key>opinion</key>
+	<string>Opinion</string>
+	<key>content_invalid</key>
+	<string>Please issue your content.</string>
+	<key>openning_time</key>
+	<string>Opening Time</string>
+	<key>map_lbl</key>
+	<string>Map Type</string>
+	<key>map_google</key>
+	<string>Google</string>
+	<key>map_baidu</key>
+	<string>Baidu</string>
+	<key>lang_lbl</key>
+	<string>Language</string>
+	<key>size_lbl</key>
+	<string>Font Size</string>
+	<key>search_count</key>
+	<string>%u results about %@</string>
+	<key>rated_title</key>
+	<string>Your Rating</string>
+	<key>rated_msg</key>
+	<string>You already rated to this place.</string>
+	<key>rated_thank</key>
+	<string>Thank you for your rating.</string>
+	<key>hkfhy_spot</key>
+	<string>http://app.e-cgo.org.hk/spot-detail?id=</string>
+	<key>first_download</key>
+	<string>Welcome, update patch must download. Please connect to network.</string>
+	<key>a_lang_btn</key>
+	<string>Language change, current is English.</string>
+	<key>a_search_sumbit</key>
+	<string>Search</string>
+	<key>a_setting</key>
+	<string>Setting</string>
+	<key>a_intro</key>
+	<string>Introduct</string>
+	<key>a_opinion</key>
+	<string>Your Opinion</string>
+	<key>a_search_page</key>
+	<string>Search Page</string>
+	<key>a_park</key>
+	<string>Map - Disabled park</string>
+	<key>a_tollet</key>
+	<string>Map - Disabled toilet</string>
+	<key>a_islands</key>
+	<string>Islands</string>
+	<key>a_NT</key>
+	<string>New Territories</string>
+	<key>a_KLN</key>
+	<string>Kowloon</string>
+	<key>a_HK</key>
+	<string>Hong Kong</string>
+	<key>a_font</key>
+	<string>Change font size</string>
+	<key>a_link_2</key>
+	<string>Link to Office of government chief information officer website</string>
+	<key>a_link_1</key>
+	<string>Link to Hong Kong Federation of Handicapped Youth website</string>
+</dict>
+</plist>

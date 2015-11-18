@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>location_loaded</key>
+	<string>0</string>
+	<key>uuid</key>
+	<string>0</string>
+	<key>default_zoom</key>
+	<string>13</string>
+	<key>default_lng</key>
+	<string>114.1740</string>
+	<key>default_lat</key>
+	<string>22.3012</string>
+	<key>get_rate</key>
+	<string>get_rate.json</string>
+	<key>rating_feed</key>
+	<string>submit_rate.php</string>
+	<key>spot_comment_feed</key>
+	<string>submit_spot_comment.php</string>
+	<key>comment_feed</key>
+	<string>submit_comment.php</string>
+	<key>get_data</key>
+	<string>data.json</string>
+	<key>get_version</key>
+	<string>version.json</string>
+	<key>domain</key>
+	<string>http://app.e-cgo.org.hk/</string>
+	<key>font_size</key>
+	<string>1</string>
+	<key>language</key>
+	<string></string>
+	<key>map_type</key>
+	<string>0</string>
+	<key>db_version</key>
+	<string>0</string>
+</dict>
+</plist>
